@@ -2,3 +2,7 @@ baseURL = 'https://mbyamaguchi.github.io/ronbunmgr/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-book'
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'

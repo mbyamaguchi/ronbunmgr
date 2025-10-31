@@ -1,7 +1,7 @@
 +++
-date = '2025-10-31T11:55:10+09:00'
+date = '2025-10-31T12:32:10+09:00'
 draft = false 
-title = 'Ronbun'
+title = 'RonbunTemplate'
 +++
 
 # はじめに
